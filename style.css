@@ -1,4 +1,3 @@
-/* Réinitialisation */
 * {
   margin: 0;
   padding: 0;
@@ -101,14 +100,14 @@ main {
   font-style: italic;
   font-size: 1.5rem;
   line-height: 2rem;
-  color: #4B0082; /* Couleur violette élégante */
+  color: #4B0082;
   text-align: justify;
   margin: 20px 10px;
 }
 
 #anecdote-container {
   padding: 20px;
-  background: rgba(175, 77, 77, 0.8); /* Fond semi-transparent pour mettre en valeur le texte */
+  background: rgba(175, 77, 77, 0.8); 
   border-radius: 15px;
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
 }
